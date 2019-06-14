@@ -1,1 +1,1 @@
-<img src="img_girl.jpg" alt="picture1">
+<img src="picture1.png" alt="picture1">
